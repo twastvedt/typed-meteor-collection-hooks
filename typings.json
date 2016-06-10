@@ -2,7 +2,7 @@
   "name": "meteor-collection-hooks",
   "main": "index.d.ts",
   "homepage": "https://github.com/matb33/meteor-collection-hooks",
-  "version": "",
+  "version": "0.8.1",
   "devDependencies": {
     "blue-tape": "registry:npm/blue-tape#0.1.0+20160322235613"
   },
